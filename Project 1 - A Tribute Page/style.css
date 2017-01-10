@@ -1,0 +1,35 @@
+.jumbotron {
+  padding-right: 60px;
+  padding-left: 60px; 
+  background-color: #6c90b3;
+  color: #0c0b0b;
+  border: 1px solid #05222d;
+}
+
+.container {
+  width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timeline {
+  margin-left: 170px;
+  list-style: none;
+}
+
+blockquote {
+  margin-left: 170px;
+  border: none;
+}
+
+h3 {
+  margin-left: 190px;
+}
+
+figcaption {
+  color: blue;
+}
+
+img {
+  border: 1.5px solid;
+}
